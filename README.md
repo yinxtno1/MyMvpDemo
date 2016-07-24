@@ -1,2 +1,2 @@
 # MyMvpDemo
-一个Android MVP模式的Demo
+仿照张鸿洋大神的一个demo写的关于Android MVP模式的Demo
